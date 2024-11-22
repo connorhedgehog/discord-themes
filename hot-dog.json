@@ -16,9 +16,9 @@
     "BACKGROUND_SECONDARY_ALT": ["#C0C0C0"],
     "BACKGROUND_MODIFIER_SELECTED": ["#F00"],
     "BACKGROUND_ACCENT": ["#C0C0C0"],
-    "TEXT_NORMAL": ["#FFF"],
-    "TEXT_MUTED": ["#FFF"],
-    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#FFF"]
+    "TEXT_NORMAL": ["#000"],
+    "TEXT_MUTED": ["#000"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#000"]
   },
   "rawColors": {
     "RED_400": "#F00"
