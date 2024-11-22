@@ -9,9 +9,10 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "HEADER_PRIMARY": ["#FFF", "#F00", "#F0F"]
+    "BACKGROUND_PRIMARY": ["#F00"],
+    "BACKGROUND_SECONDARY": [#FF0]
   },
   "rawColors": {
-    "PRIMARY_500": "#000"
+    "RED_400": "#F00"
   }
 }
