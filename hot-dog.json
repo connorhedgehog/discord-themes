@@ -11,7 +11,7 @@
   "semanticColors": {
     "BACKGROUND_PRIMARY": ["#FF0"],
     "BACKGROUND_MOBILE_PRIMARY": ["#FF0"],
-    "BACKGROUND_SECONDARY": [#F00],
+    "BACKGROUND_SECONDARY": ["F00"],
     "BACKGROUND_MOBILE_SECONDARY": ["#F00"],
   },
   "rawColors": {
