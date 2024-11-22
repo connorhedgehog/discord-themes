@@ -1,0 +1,17 @@
+{
+  "name": "Hot Dog Discord",
+  "description": "A tribute to an operating system long gone.",
+  "authors": [
+    {
+      "name": "connorhedgehog",
+      "id": "475092691114524672"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#FFF", "#F00", "#F0F"]
+  },
+  "rawColors": {
+    "PRIMARY_500": "#000"
+  }
+}
